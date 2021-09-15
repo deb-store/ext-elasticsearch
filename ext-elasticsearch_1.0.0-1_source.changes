@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 12 Nov 2019 14:00:00 +0300
+Source: ext-elasticsearch
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-elasticsearch (1.0.0-1) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ 4132e246c476319a8b48e6913c46304b7605d6d7 1109 ext-elasticsearch_1.0.0-1.dsc
+ cb0fde65bb8229dceb14995d6082220de9d4878d 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ 0a098342fb17bfd55404df49ed871a708a50fcd7 748 ext-elasticsearch_1.0.0-1.debian.tar.xz
+ 25ac53172a997d599b6f7e7ec463c81ac4fdeeac 4431 ext-elasticsearch_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 5bc634391034be99a4d10c0a780cf4ed1bb8af0c69be52acaee3d841ac8f4229 1109 ext-elasticsearch_1.0.0-1.dsc
+ 40637bfab2cd3497c1fc2600a8b3f9dc509a15a516c627c53b16dc6685eb244f 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ 31fd412f1ce73360cb652082e9f57b47e7d0c67b4bf8a2d55a91b1f7d4672732 748 ext-elasticsearch_1.0.0-1.debian.tar.xz
+ cd26154c455070af9c0d0e9b59dbe578a567926df4964a275a1d83b8ddd6b960 4431 ext-elasticsearch_1.0.0-1_source.buildinfo
+Files:
+ e0aed0f389e5f31b80dcc48bf3c2c4a0 1109 admin optional ext-elasticsearch_1.0.0-1.dsc
+ bac0b21ce7ef1693b4d25429f9351d30 1324 admin optional ext-elasticsearch_1.0.0.orig.tar.xz
+ 6f83529d74f7558abc57db91ec882db5 748 admin optional ext-elasticsearch_1.0.0-1.debian.tar.xz
+ b3cc906e593a4d477ff489ee5beb6a9f 4431 admin optional ext-elasticsearch_1.0.0-1_source.buildinfo
