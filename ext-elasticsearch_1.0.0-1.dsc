@@ -9,15 +9,15 @@ Homepage: https://pkgstore.gitlab.io
 Standards-Version: 4.5.1
 Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-elasticsearch
 Vcs-Git: https://github.com/pkgstore/linux-deb-ext-elasticsearch.git
-Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
+Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-elasticsearch deb admin optional arch=all
 Checksums-Sha1:
- be4d3a1ecab7ff5b2ace6631c6c4fbda010465c3 1324 ext-elasticsearch_1.0.0.orig.tar.xz
- 77d85776500267b8e115889fd14c7907d0f8b406 744 ext-elasticsearch_1.0.0-1.debian.tar.xz
+ 4c76df3037d4d30b1a4d70202237063c5d9b0c40 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ 6cff99f447dfee635088df3e5d200051263696aa 732 ext-elasticsearch_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 4367831a09c908609160eeb52b7186770898b05936d39a89315143a0ddf28b9b 1324 ext-elasticsearch_1.0.0.orig.tar.xz
- 4a72699823e29a028857ed3860787ceaaa8babeafcf70a35ebb25ff0bd188a92 744 ext-elasticsearch_1.0.0-1.debian.tar.xz
+ 3ab049064a61aac55a3f895df433e61482d17b7d6715f5b3002b60f381da1253 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ 4cd97b0e8ef0e026460021614c05af474a5178ed2101f0d01321a2f443a8f2eb 732 ext-elasticsearch_1.0.0-1.debian.tar.xz
 Files:
- 5c968367a5acec15f7d67e8a265bbb2b 1324 ext-elasticsearch_1.0.0.orig.tar.xz
- 03640858a89eadd6c7b8522a68b11e1a 744 ext-elasticsearch_1.0.0-1.debian.tar.xz
+ 7e72eef3f3fa28d6d721ca80608600a6 1324 ext-elasticsearch_1.0.0.orig.tar.xz
+ 4b343fbbe489aaff18f8bb90266f92f3 732 ext-elasticsearch_1.0.0-1.debian.tar.xz
