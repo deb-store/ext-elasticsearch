@@ -3,14 +3,14 @@ Source: ext-elasticsearch
 Architecture: source
 Version: 1.0.0-1
 Checksums-Md5:
- a9ba3655c414c7cda97b28b5bac71ce8 1090 ext-elasticsearch_1.0.0-1.dsc
+ ca08d7509713571b871bcc6c96024059 1090 ext-elasticsearch_1.0.0-1.dsc
 Checksums-Sha1:
- 41f8260a5c4070af37d1f30f363f99b33d44243c 1090 ext-elasticsearch_1.0.0-1.dsc
+ 482a8f4b6b5146a31ff76be883856bdca222a428 1090 ext-elasticsearch_1.0.0-1.dsc
 Checksums-Sha256:
- 9089553b1ee269e7fe13a47b96329ca2faba3404ef0dea07666917ff837963f0 1090 ext-elasticsearch_1.0.0-1.dsc
+ 1fa2ca18c5bf946bf2551d0a39d4ea722118eb6924be789e1016f8f89205f9ee 1090 ext-elasticsearch_1.0.0-1.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 28 Sep 2021 14:20:10 +0000
+Build-Date: Sat, 02 Oct 2021 15:32:34 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
